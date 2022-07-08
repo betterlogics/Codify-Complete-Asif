@@ -174,7 +174,7 @@
    }
 
 
-   @media (min-width:425px) and (max-width:600px) {
+   /* @media (min-width:425px) and (max-width:600px) {
       .manue ul li a {
          display: none;
       }
@@ -332,7 +332,7 @@
      .copy {
       width: 90%;
      }
-   }
+   } */
 
    @media (min-width:600px) and (max-width:768px) {
       .navbar img {
