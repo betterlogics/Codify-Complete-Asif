@@ -101,11 +101,11 @@
       }
 
       .slider:hover .iphon_3 {
-         transform: translate(-100px, 0);
+         transform: translate(-100px, 0) !important;
      }
     
      .slider:hover .iphon_4 {
-         transform: translate(100px, 0);
+         transform: translate(100px, 0) !important;
      }
     
       .customers {
