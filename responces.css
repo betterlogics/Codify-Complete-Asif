@@ -1,4 +1,4 @@
-   @media screen And (max-width:400px) {
+   @media screen And (max-width:425px) {
       .manue ul li a {
          display: none;
       }
@@ -101,11 +101,11 @@
       }
 
       .slider:hover .iphon_3 {
-         transform: translate(-40px, 0) !important;
+         transform: translate(-70px, 0) !important;
      }
     
      .slider:hover .iphon_4 {
-         transform: translate(40px, 0) !important;
+         transform: translate(70px, 0) !important;
      }
     
       .customers {
@@ -174,7 +174,7 @@
    }
 
 
-   @media (min-width:400px) and (max-width:600px) {
+   @media (min-width:425px) and (max-width:600px) {
       .manue ul li a {
          display: none;
       }
@@ -251,17 +251,17 @@
       }
 
       .slider .iphon_3 {
-         width: 60%;
+         width: 50%;
          height: auto;
       }
 
       .slider .iphon_4 {
-         width: 60%;
+         width: 50%;
          height: auto;
       }
 
       .slider {
-         margin-top: 17rem;
+         margin-top: 8rem;
       }
 
       .services {
