@@ -1,0 +1,489 @@
+   @media screen And (max-width:400px) {
+      .manue ul li a {
+         display: none;
+      }
+
+      .manue button {
+         display: none;
+      }
+
+      .navbar img {
+         width: 40%;
+      }
+
+      .innersection img {
+         width: 60%;
+         height: auto;
+      }
+
+      .innersection h3 {
+         font-size: 15px;
+         padding: 10px 20px;
+      }
+
+      .section2 {
+         margin-top: 18rem;
+      }
+
+      .section2 .h1 {
+         font-size: 2rem;
+      }
+
+      .div_A {
+         flex-direction: column;
+      }
+
+      .div_B {
+         flex-direction: column;
+      }
+
+      .section3 h1 {
+         font-size: 2rem;
+      }
+
+      .grid {
+         display: grid;
+         grid-template-columns: 1fr;
+      }
+
+      .grid .box {
+         width: 300px;
+      }
+
+      .section4 {
+         flex-direction: column;
+         text-align: center;
+      }
+
+      .first_div_1 {
+         margin-top: 3rem;
+      }
+
+      .first_div_1 .image1 {
+         width: 60%;
+         height: auto;
+      }
+
+      .first_div_1 .image2 {
+         width: 60%;
+         height: auto;
+      }
+
+      .pakages {
+         grid-template-columns: 1fr;
+      }
+
+      .box {
+         width: 250px;
+      }
+
+      .section5 h1 {
+         font-size: 2rem;
+      }
+
+      .slider {
+         margin-top: 17rem;
+      }
+
+      .slider .iphone11 {
+         width: 60%;
+         height: 450px;
+      }
+
+      .slider .iphon_3 {
+         width: 60%;
+         height: 350px;
+      }
+
+      .slider .iphon_4 {
+         width: 60%;
+         height: 350px;
+      }
+
+      .customers {
+         flex-direction: column;
+      }
+
+      .services {
+         width: 90%;
+      }
+
+      .services_1 {
+         width: 100%;
+         margin-top: 6rem;
+      }
+
+      .services_2 {
+         width: 68%;
+         margin-top: 5rem;
+         padding-left: 2rem;
+      }
+
+      .rotate {
+         grid-template-columns: 1fr;
+      }
+
+      .ourteam {
+         width: 57%;
+      }
+      form {
+         width: 100%;
+         padding-left: 0px;
+         text-align: center;
+      }
+      .footer {
+         flex-direction: column;
+      }
+      .section10 {
+         justify-content: center;
+         text-align: center;
+      }
+      .footer_info {
+         flex-direction: column;
+      }
+      .footer_img img {
+         width: 50%;
+      }
+      .div_1 {
+         width: 100%;
+      }
+      .div_2 {
+         width: 100%;
+         padding-left: 0px;
+         margin-top: 1rem;
+      }
+      .div_3 {
+         width: 100%;
+         margin-top: 1rem;
+     }
+     .div_4 {
+      width: 100%;
+      margin-top: 1rem;
+     }
+     .copy {
+      width: 90%;
+     }
+   }
+
+
+   @media (min-width:400px) and (max-width:600px) {
+      .manue ul li a {
+         display: none;
+      }
+
+      .manue button {
+         display: none;
+      }
+
+      .div_A {
+         flex-direction: column;
+      }
+
+      .div_B {
+         flex-direction: column;
+      }
+
+      .navbar img {
+         width: 40%;
+      }
+
+      .innersection img {
+         width: 60%;
+         height: auto;
+      }
+
+      .section2 {
+         margin-top: 18rem;
+      }
+
+      .grid {
+         display: grid;
+         grid-template-columns: 1fr;
+      }
+
+      .grid .box {
+         width: 300px;
+         height: auto;
+      }
+
+      .section3 p {
+         font-size: 20px;
+      }
+
+      .section4 {
+         flex-direction: column;
+         text-align: center;
+      }
+
+      .first_div_1 {
+         margin-top: 3rem;
+      }
+
+      .first_div_1 .image1 {
+         width: 60%;
+         height: auto;
+      }
+
+      .first_div_1 .image2 {
+         width: 60%;
+         height: auto;
+      }
+
+      .pakages {
+         grid-template-columns: 1fr;
+      }
+
+      .section5 h1 {
+         font-size: 2rem;
+      }
+
+      .slider .iphone11 {
+         width: 60%;
+         height: auto;
+      }
+
+      .slider .iphon_3 {
+         width: 60%;
+         height: auto;
+      }
+
+      .slider .iphon_4 {
+         width: 60%;
+         height: auto;
+      }
+
+      .slider {
+         margin-top: 17rem;
+      }
+
+      .services {
+         width: 90%;
+      }
+
+      .services_2 {
+         width: 65%;
+         margin-top: 13rem;
+      }
+
+      .services_1 {
+         width: 100%;
+         padding-left: 2rem;
+         margin-top: 3rem;
+      }
+
+      .customers {
+         flex-direction: column;
+      }
+
+      .services_1 {
+         margin-top: 6rem;
+      }
+
+      .services_2 {
+         padding-left: 2rem;
+      }
+
+      .rotate {
+         grid-template-columns: 1fr;
+      }
+
+      .ourteam {
+         width: 50%;
+      }
+      form {
+         width: 100%;
+         padding-left: 0px;
+         text-align: center;
+      }
+      .section10 {
+         justify-content: center;
+         text-align: center;
+      }
+      .footer_info {
+         flex-direction: column;
+      }
+      .footer_img img {
+         width: 50%;
+      }
+      .div_1 {
+         width: 100%;
+      }
+      .div_2 {
+         width: 100%;
+         padding-left: 0px;
+         margin-top: 1rem;
+      }
+      .div_3 {
+         width: 100%;
+         margin-top: 1rem;
+     }
+     .div_4 {
+      width: 100%;
+      margin-top: 1rem;
+     }
+     .copy {
+      width: 90%;
+     }
+   }
+
+   @media (min-width:600px) and (max-width:768px) {
+      .navbar img {
+         width: 20%;
+      }
+
+      .innersection img {
+         width: 35%;
+         height: auto;
+      }
+
+      .grid {
+         display: grid;
+         grid-template-columns: 1fr 1fr 1fr;
+      }
+
+      .grid .box {
+         width: 250px;
+         height: auto;
+      }
+
+      .section4 {
+         text-align: center;
+         margin-top: 5rem;
+      }
+
+      .box {
+         width: 200px !important;
+      }
+
+      .box p {
+         font-size: 15px !important;
+      }
+
+      .slider .iphone11 {
+         width: 50%;
+         height: auto;
+      }
+
+      .slider .iphon_3 {
+         width: 50%;
+         height: auto;
+      }
+
+      .slider .iphon_4 {
+         width: 50%;
+         height: auto;
+      }
+
+      .customers {
+         width: 74%;
+      }
+
+      .services {
+         width: 35%;
+      }
+
+      .services_2 {
+         width: 35%;
+      }
+
+      .ourteam {
+         width: 90%;
+      }
+
+      .rotate {
+         padding-left: 0px;
+      }
+      .ourteam {
+         width: 85% !important;
+     }
+     form {
+      width: 100%;
+      padding-left: 0px;
+      text-align: center;
+   }
+   }
+
+   @media (min-width:768px) and (max-width:1024px) {
+      .grid {
+         display: grid;
+         grid-template-columns: 1fr 1fr fr;
+      }
+
+      .grid .box {
+         width: 250px;
+         height: auto;
+      }
+
+      .first_div_1 .image1 {
+         width: 100%;
+      }
+
+      .first_div_1 .image2 {
+         width: 100%;
+      }
+
+      .box {
+         width: 250px !important;
+      }
+
+      .services_1 .iphone-11 {
+         width: 80% !important;
+      }
+
+      .services_1 .iphone-12 {
+         width: 80% !important;
+      }
+
+      .services {
+         width: 22%;
+      }
+
+      .services_2 {
+         width: 20%;
+      }
+
+      .services_1 {
+         margin-top: -12rem;
+      }
+
+      .ourteam {
+         width: 85% !important;
+      }
+      form {
+         width: 100%;
+         padding-left: 0px;
+         text-align: center;
+      }
+
+   }
+
+   @media (min-width:1025px) and (max-width:1440px) {
+      .box {
+         width: 320px !important;
+      }
+      form {
+         width: 100%;
+         padding-left: 0px;
+         text-align: center;
+      }
+
+      .ourteam {
+         width: 45% !important;
+      }
+   }
+
+   @media (min-width:1441px) and (max-width:3000px) {
+      .box {
+         width: 450px !important;
+         padding: 5px 30px;
+      }
+
+      .ourteam {
+         width: 40%;
+      }
+      form {
+         width: 60%;
+         padding-left: 0px;
+         text-align: center;
+      }
+   }
