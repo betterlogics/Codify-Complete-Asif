@@ -86,26 +86,26 @@
       }
 
       .slider .iphone11 {
-         width: 60%;
-         height: 450px;
+         width: 50%;
+         height: 350px;
       }
 
       .slider .iphon_3 {
-         width: 60%;
-         height: 350px;
+         width: 50%;
+         height: 300px;
       }
 
       .slider .iphon_4 {
-         width: 60%;
-         height: 350px;
+         width: 50%;
+         height: 300px;
       }
 
       .slider:hover .iphon_3 {
-         transform: translate(-100px, 0) !important;
+         transform: translate(-70px, 0) !important;
      }
     
      .slider:hover .iphon_4 {
-         transform: translate(100px, 0) !important;
+         transform: translate(70px, 0) !important;
      }
     
       .customers {
