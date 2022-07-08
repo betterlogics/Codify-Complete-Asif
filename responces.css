@@ -22,7 +22,7 @@
       }
 
       .section2 {
-         margin-top: 30rem !important;
+         margin-top: 5rem !important;
       }
 
       .section2 .h1 {
@@ -82,7 +82,7 @@
       }
 
       .slider {
-         margin-top: 17rem;
+         margin-top: 3rem;
       }
 
       .slider .iphone11 {
@@ -101,11 +101,11 @@
       }
 
       .slider:hover .iphon_3 {
-         transform: translate(-70px, 0) !important;
+         transform: translate(-40px, 0) !important;
      }
     
      .slider:hover .iphon_4 {
-         transform: translate(70px, 0) !important;
+         transform: translate(40px, 0) !important;
      }
     
       .customers {
